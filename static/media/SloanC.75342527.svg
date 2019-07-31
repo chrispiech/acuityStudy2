@@ -1,0 +1,5 @@
+<svg id="Sloan_C" class="js-not-fill" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0,0,5,5" width="100px" height="100px" >
+            <circle cx="2.5" cy="2.5" r="2.5" fill="black" class="js-color-fill" />
+            <circle cx="2.5" cy="2.5" r="1.5" fill="rgba(255,255,255,1.0)" />
+            <polygon points="5,2 5,3 3,3 3,2" fill="rgba(255,255,255,1.0)" />
+        </svg>
